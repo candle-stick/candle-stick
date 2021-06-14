@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![landing page](name-title.png?raw=true)
 <!--
 **candle-stick/candle-stick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
